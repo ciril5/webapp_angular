@@ -1,0 +1,32 @@
+
+
+.banner-img{
+    background: url(/assets/images/zillion_about.jpg) !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 800px;
+
+}
+
+
+/* form section */
+
+.error_meassage{
+color: red;
+font-size: 15px;
+margin-top: 5px;
+}
+
+.asterrisk::before{
+    content: "*";
+    color: red;
+}
+
+
+
+.images_wr{
+    margin-top: 75px;
+
+}

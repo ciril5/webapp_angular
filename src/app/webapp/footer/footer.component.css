@@ -1,0 +1,72 @@
+
+
+/*Footer*/
+
+.footer-sec{
+    background-color: #d0d0d0;
+    width: 100%;
+    height: auto;
+    
+}
+.footer-sec h2{
+    font-weight: 300;
+}
+.footer-sec h5{
+    font-weight: 300;
+    font-size: 17px;
+}
+.footer-content-h2{
+    color: #333;
+    font-size: 30px;
+    font-weight: 300px;
+    padding-bottom: 25px;
+
+}
+.footer-content-h5{
+    color: #333;
+    font-weight: 10 px;
+    padding-bottom: 25px;
+
+}
+.footer-sec ul{
+    margin-left: -34px;
+}
+.fa-sharp{
+    font-size: 25px;
+}
+.footer-li{
+    list-style-image:url(/assets/images/zillion_list_icon_03.png);
+    width: 50%;
+    height: auto;
+    float: left;
+    list-style-position: inside;
+    line-height: 36px;
+    font-size: 19px;
+    color: #333;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: -103px;
+   
+} 
+
+.footer-li a{
+    cursor: pointer;
+}
+.footer-sec-right{
+    float: right;
+}
+.footer-sec a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer-sec a:hover{
+    color: #4a7d93;
+}
+.copyright-h6{
+    text-align: center;
+    border-top: 1px dashed #000000 ;
+    font-weight: 300;
+    font-size: 15px;
+    padding-top: 6px;
+}

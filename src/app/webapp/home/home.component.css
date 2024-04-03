@@ -1,0 +1,478 @@
+*{
+   
+   
+    color: white;
+   
+   
+
+}
+
+
+body {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+
+/* cards*/
+.row > * {
+    padding: 0 !important;
+    
+    
+}
+
+
+.card-center{
+    text-align: center;
+    /* margin-top: 30px; */
+}
+
+
+
+.cards{
+    height: 435px;
+    width: 100%;
+    
+    
+}
+
+
+.card-image{
+ 
+    width: 30%;
+ 
+    
+ 
+}
+
+.cards h3{
+    font-weight: 100;
+  
+  
+}
+
+
+
+/* .card-hr{
+
+    width: 215px;
+    border: 1.5px solid;
+    border-color: #fff !important;
+    opacity:1;
+    height: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -6px;
+} */
+
+.card-hr{
+    width: 215px;
+    height: 0.8px !important;
+    border: 2px solid;
+    border-color: #fff !important;
+    opacity: 1;
+    height: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -6px;
+}
+
+
+.card-btn{
+ 
+    width: 30%;
+    height: 2.5em;
+    border-radius: 28px;
+    color: black;
+    border-color: 1px solid transparent;
+    border-radius: 20px;
+    padding: 8px 20px 6px;
+    font-size: 18px;
+    
+  
+}
+
+
+.cards-bgcolor1{
+    background-color: #091f1a;
+
+}
+
+.cards-bgcolor2{
+    background-color:#ec5942;
+
+}
+
+.cards-bgcolor3{
+    background-color:  #3960a1;
+
+}
+.cards-bgcolor4{
+    background-color: #d68e2d;
+
+}
+
+.cards-bgcolor5{
+    background-color:#9060a8;
+
+}
+
+.cards-bgcolor6{
+    background-color: #90bd43;
+
+}
+.cards-bgcolor7{
+    background-color: #6D214F;
+
+}
+.cards-bgcolor8{
+    background-color:#2C3A47;
+
+}
+.cards-bgcolor9{
+    background-color:#3B3B98;
+
+}
+
+/* content*/
+
+
+.content-img{
+    background: url(/assets/images/zillion_content_banner_02.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    
+
+    
+}
+.cards-contents{
+    margin-left: 45px;
+
+}
+
+.content-img   h3{
+    color: #489537;;
+}
+
+
+
+.content-h2{
+    
+color: #fff;
+margin: 0;
+font-size: 36px;
+padding: 15px;
+font-weight: 400;
+}
+
+.contents-border-top{
+    
+    border-right: 1px dashed #fff;
+    border-bottom: 1px dashed #fff;
+    padding:30px 0px 36px 5px; 
+   
+}
+.contents-border-right{
+       
+    
+    padding:30px 0px 36px 5px;
+    border-bottom: 1px dashed #fff;
+
+}
+
+
+.contents-border-botton{
+       
+    border-right: 1px dashed #fff;
+    padding:30px 0px 36px 5px;
+
+}
+.contents-border-botton-right{
+   
+    padding:30px 0px 36px 5px;
+
+
+}
+
+/*Testimony*/
+
+.testimony{
+    background-color: #e6eaea;
+    width: 100%;
+    height: auto;
+    padding-bottom: 100px;
+
+   
+}
+.testimony-span{
+    font-size: 1.2em;
+    color: black;
+    font-weight: 500;
+    padding-left: 12px;
+ 
+
+}
+.testimony h3{
+    color: black;
+    font-weight: 300;
+    font-size: 35px;
+   
+}
+.testimony  h4{
+    color: black;
+    letter-spacing: 3px;
+    font-weight: 100;
+    font-size: 30px;
+}
+.testimony h5{
+    font-weight: 450;
+    color: black;
+    /* float: left;
+    margin-left: 131px; */
+    font-size: 22px;
+ 
+}
+
+.carousel-image{
+    width: 200px;
+    height: 200px;
+}
+
+.fa-solid{
+    color:#479443;
+    font-size: 80px;
+    float: left;
+    margin-top: -30px;
+    
+}
+.testimony-para{
+    font-weight: 450;
+    color: black;
+    margin-right: 100px;
+    font-size: 18px;
+  
+}
+.testimony-span-para{
+    font-weight: 450;
+    color: black;
+    margin-right: 2px;
+    font-size: 18px;
+}
+
+
+
+/* Latest Work*/
+
+.latest-work h2{
+
+    font-weight: 300;
+    font-size: 30px;
+
+}
+.latest-work-h2{
+    font-weight: 500;
+    color: black;
+}
+
+
+
+.latest-work-all{
+   text-align: center; 
+   margin-bottom: 16px;
+}
+
+/*Footer*/
+
+.footer-sec{
+    background-color: #d0d0d0;
+    width: 100%;
+    height: auto;
+    
+}
+.footer-sec h2{
+    font-weight: 300;
+}
+.footer-sec h5{
+    font-weight: 300;
+    font-size: 17px;
+}
+.footer-content-h2{
+    color: #333;
+    font-size: 30px;
+    font-weight: 300px;
+    padding-bottom: 25px;
+
+}
+.footer-content-h5{
+    color: #333;
+    font-weight: 10 px;
+    padding-bottom: 25px;
+
+}
+.footer-sec ul{
+    margin-left: -34px;
+}
+.fa-sharp{
+    font-size: 25px;
+}
+.footer-li{
+    list-style-image:url(/src/assets/images/zillion_list_icon_03.png);
+    width: 50%;
+    height: auto;
+    float: left;
+    list-style-position: inside;
+    line-height: 36px;
+    font-size: 19px;
+    color: #333;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: -103px;
+   
+} 
+.footer-sec-right{
+    float: right;
+}
+.footer-sec a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer-sec a:hover{
+    color: #4a7d93;
+}
+.copyright-h6{
+    text-align: center;
+    border-top: 1px dashed #fff ;
+    font-weight: 300;
+    font-size: 15px;
+    padding-top: 6px;
+}
+
+/* media query*/
+
+@media screen and (max-width: 576px) {
+    .social-icon{
+        font-size: 20px;
+        margin-left:12px;
+
+    }
+    .header-contact{
+        
+        margin-top: -27px; 
+        margin-left: 168px;
+    } 
+    .connect-sec {
+        margin-top: -25px;
+    }
+    .header-contact-sec .fa-solid{
+        font-size: 20px;
+    
+    }
+    .para{
+        font-size: 16px;
+    }
+
+    .logo{
+        margin-left: 12px;
+    }
+    .navbar{
+        float: right;
+        margin-right: 12px;
+    }
+    button.navbar-toggler{
+        
+       outline: none!important;
+
+    }
+    .cards{
+        height: 270px;
+    }
+    .card-hr{
+        width: 170px;
+    }
+    .card-btn{
+     width: auto;
+     height: auto;
+    }
+    .content-h2{
+        font-size: 20px;
+    }
+    .content-img{
+        width: auto;
+        height: auto;
+    }
+    .cards-contents{
+        margin-left: 45px;
+    }
+    .contents-border-botton{
+        border-bottom: 1px dashed #fff;
+
+    }
+    .testimony h3{
+        font-size: 20px;
+    }
+    .testimony h4{
+        font-size: 16px;
+    }
+    .carousel-image{
+        margin: auto;
+        padding-top: 12px;
+    }
+    .carousel-caption{
+        position:  relative !important;
+        margin-top: 69px;
+        margin-left: -39px;
+    } 
+    .fa-solid{
+        font-size: 50px;
+        
+    }
+
+    .testimony-para {
+        font-size: 16px;
+
+    }
+    .testimony-span-para{
+        font-size: 16px;
+    }
+    .testimony-h5{
+        margin: auto;
+    }
+    .latest-work h2 {
+        font-size: 20px;
+
+    }
+    .footer-sec{
+        padding-left: 25px;
+    }
+    .footer-content-h2{
+        font-size: 18px;
+    }
+    .footer-sec h5{
+        font-size: 15px;
+        break-inside: avoid;
+    }
+    .footer-li{
+        font-size: 15px;
+    }
+    .footer-sec-right{
+        padding-top: 25px;
+        float: left;
+    }   
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,156 @@
+*{
+  
+    box-sizing: border-box;
+    color: white;
+   
+   
+
+}
+
+
+body {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/* header-sec*/
+
+header{
+  
+    justify-content: center;
+    align-items: center;
+  
+}
+
+
+/*banner image*/
+
+.banner-img{
+    background: url(/assets/images/zillion_about.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+
+}
+
+a{
+    text-decoration: none;
+}
+.social-icon-header a,i{
+    margin: 0px 12px;
+   
+}
+
+.social-icon{
+    font-size: 28px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.header-contact{
+    margin-left: 145px;
+}
+.header-contact li{
+   list-style: none;
+   margin: 0px 5px;
+   display: inline-block;
+    
+
+
+}
+
+
+
+.header-contact-sec .fa-solid{
+   
+    font-size: 24px;
+    float: none!important;
+}
+
+
+.para{
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.connect-sec {
+    margin-right: 51px;
+
+}
+
+#btn{
+    width: 131px;
+    border-radius: 40px;
+    height: 40px;
+    background-color: #11448b;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: -4px;
+}
+
+
+
+
+
+
+
+/* header-sec end*/
+
+/* nav section*/
+
+.nav-sec{
+    background: rgba(0,0,0,.1450980392156863)
+    
+    
+}
+.navbar{
+    text-align: center;
+    margin-right: 129px;
+  
+}
+
+.nav-link{
+    font-size: 1.2em;
+}
+.nav-link:hover{
+    cursor: pointer;
+}
+
+
+.logo{
+    width: 110px;
+    margin-left: 10em
+    
+}
+
+
+
+/* drop list  hover background change*/
+
+li:hover ul{
+    display: block;
+    background-color:rgba(0,0,0, .8);
+
+}
+
+.drop-border:hover{
+    background-color: rgb(12, 12, 12);
+}
+
+.dropdown-menu>li>a:hover{
+    display: block;
+    width: 100%;
+    background-color: #11448b;
+    cursor: pointer;
+   
+}
+.navbar-nav > li > .dropdown-menu {    backdrop-filter: blur(6px) saturate(200%);
+    -webkit-backdrop-filter: blur(6px) saturate(200%);
+    background-color: rgba(17, 25, 40, 0.19);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125); }
+
+/*section end*/
